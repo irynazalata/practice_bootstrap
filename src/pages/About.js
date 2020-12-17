@@ -1,9 +1,10 @@
 import React from 'react';
+import Jumbotron from '../Components/Jumbotron';
 
 const About = () => {
   return (
     <>
-      <h1>About Page</h1>
+      <Jumbotron />
     </>
   );
 };
